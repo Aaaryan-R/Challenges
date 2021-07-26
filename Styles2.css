@@ -1,0 +1,137 @@
+.fol1{
+
+  bottom: 20px;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 700;
+  left: 50%;
+  margin-left: -35px;
+  position: absolute;
+  width: 70px;
+}
+.followers1{
+  color: #C8C2BC;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  padding-top: 7px;
+}
+
+.followers{
+  color: #C8C2BC;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  padding-top: 7px;
+}
+.followers2{
+  color: #C8C2BC;
+  display: inline-block;
+  font-size: 10px;
+  font-weight: 400;
+  letter-spacing: 3px;
+  padding-top: 7px;
+}
+span{
+  font-family: 'Kumbh Sans', sans-serif;
+}
+.fol{
+  bottom: 20px;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 700;
+  left: 40px;
+  position: absolute;
+  width: 70px;
+
+}
+.fol2{
+  bottom: 20px;
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 700;
+  position: absolute;
+  right: 40px;
+  width: 70px;
+}
+.border{
+  border-bottom-width: 1.5px;
+  border-color: #E1E8EB;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-top-width: 0;
+  margin-top: 20px;
+}
+.details{
+  line-height: 1.5;
+  padding-top: 80px;
+}
+p{
+  font-family: 'Kumbh Sans', sans-serif;
+  margin: 0;
+}
+.name{
+  font-size: 18px;
+  font-weight: 700;
+}
+.recidence{
+  color: #969696;
+  font-size: 14px;
+  font-weight: 400;
+  padding-top: 7px;
+}
+.age{
+  color: #969696;
+  font-size: 18px;
+}
+.Profile-picture{
+  background-color: white;
+  border: 5px solid white;
+  border-radius: 100%;
+  position: absolute;
+  right: 124.5px;
+  top: 88px;
+}
+body{
+  background-color: #19A2AE;
+  margin: 0;
+  text-align: center;
+}
+.top{
+  left: -250px;
+  position: absolute;
+  top: -500px;
+}
+.bottom{
+  bottom: 0;
+  position: absolute;
+  right: 0;
+}
+.main{
+  background-color: grey;
+  border-radius: 15px;
+  height: 370px;
+  left : 50%;
+  margin-left: -175px;
+  margin-top: -185px;
+  position: absolute;
+  top: 50%;
+  width: 350px;
+}
+.upper-container{
+  height: 140px;
+  width: 350px;
+}
+.top-img{
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.bottom-container{
+  background-color: white;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+  height: 230px;
+  width: 350px;
+}
